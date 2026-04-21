@@ -64,4 +64,4 @@ All Kaggle competition submissions run on CPU only (no GPU access). This imposed
 
 ---
 
-*First-year undergraduate project — Manipal Institute of Technology, 2026*
+*First-year undergraduate project*
